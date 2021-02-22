@@ -13,6 +13,9 @@ The Project is divided into three parts:</br>
   2-> Take the reference of red colour to draw on the screen . and using a deque to store the point of location where the red coloured object  is moving  and finally predict the alphabet .</br>
   3-> Adding a feature of sound ( to speak the predicted alphabet) . 
   
+## YouTube Video (Explanation and demo)
+
+[![Alphabet Recognition Using Hand Gestures](http://img.youtube.com/vi/7YDiblwu_qE/0.jpg)](http://www.youtube.com/watch?v=7YDiblwu_qE "Alphabet Recognition Using Hand Gestures")
 
 ## Code Requirements </br>
 The code is written in python 3.7 .If you have a lower version of Python you can upgrade using the pip package , ensuring you have the latest version of pip . 
@@ -42,6 +45,3 @@ Each of the letters is stored as a numbered array(28 x 28) as shown below.
  ## Code Execution </br>
  After following the above steps of installation . Open the terminal( cmd, powershell ) in the project directory and use the command </br> 
  ### python Hand Gesture Implementation.py </br>
-## YouTube Video (Explanation and demo)
-
-[![Alphabet Recognition Using Hand Gestures](http://img.youtube.com/vi/7YDiblwu_qE/0.jpg)](http://www.youtube.com/watch?v=7YDiblwu_qE "Alphabet Recognition Using Hand Gestures")
