@@ -42,6 +42,6 @@ Each of the letters is stored as a numbered array(28 x 28) as shown below.
  ## Code Execution </br>
  After following the above steps of installation . Open the terminal( cmd, powershell ) in the project directory and use the command </br> 
  ### python Hand Gesture Implementation.py </br>
+## YouTube Video (Explanation and demo)
 
-
-
+[![Alphabet Recognition Using Hand Gestures](http://img.youtube.com/vi/7YDiblwu_qE/0.jpg)](http://www.youtube.com/watch?v=7YDiblwu_qE "Alphabet Recognition Using Hand Gestures")
