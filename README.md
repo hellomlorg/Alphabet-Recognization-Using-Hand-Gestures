@@ -29,7 +29,7 @@ The "Extended Hello World" of object recognition for machine learning and deep l
 
 
 ## Code Explanation </br>
- I have written a tutorial <a href=”#”>post on hello ML </a>explaining the code.</br> 
+ I have written a tutorial <a href=”https://helloml.org/alphabet-recognition-using-hand-gestures/”>post on hello ML </a>explaining the code.</br> 
 
 
 The small portion of the dataset is shown below.
