@@ -32,11 +32,11 @@ The "Extended Hello World" of object recognition for machine learning and deep l
 I have written a tutorial <a href="https://helloml.org/alphabet-recognition-using-hand-gestures"> post on hello ML </a>explaining the code.
 
 
-The small portion of the dataset is shown below.
-![](pic1.jpg)
+The small portion of the dataset is shown below.  
+![](SreenShot/pic1.jpg)
 
-Each of the letters is stored as a numbered array(28 x 28) as shown below.
-![](pic2.JPG)
+Each of the letters is stored as a numbered array(28 x 28) as shown below.  
+![](SreenShot/pic2.JPG)
 
  ## Code Execution
  After following the above steps of installation. Open the terminal( cmd, powershell ) in the project directory and use the command shown below.
